@@ -58,7 +58,7 @@ function UpcomingWebinars() {
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">Enhance Your Musical Journey</p>
         </div>
 
-        <div className="mt-10">
+        <div className="mt-10 z-40">
           <HoverEffect
           items={featuredWebinars.map(webinar => (
             {
